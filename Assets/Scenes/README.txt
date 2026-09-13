@@ -1,0 +1,1 @@
+Create Main.unity with bootstrap GameObjects: InventoryService, CheckoutService, EconomyService, SupplierService, IncidentService, ProgressionService, SaveService, DeterministicDay. Add a CharacterController + FirstPersonPlayer and a child Camera.
